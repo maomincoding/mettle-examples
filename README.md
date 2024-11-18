@@ -1,3 +1,3 @@
-# strve-examples
+# mettle-examples
 
-These are some examples about strve.js.
+These are some examples about mettle.js.

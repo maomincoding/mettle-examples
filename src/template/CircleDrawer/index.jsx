@@ -1,4 +1,4 @@
-import { defineComponent } from 'strve-js';
+import { defineComponent } from 'mettle';
 import './index.less';
 
 function clone(circles) {

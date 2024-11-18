@@ -1,4 +1,4 @@
-import { defineComponent } from 'strve-js';
+import { defineComponent } from 'mettle';
 import router from './router/index';
 import './styles/app.css';
 

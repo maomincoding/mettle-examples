@@ -1,4 +1,4 @@
-import { defineComponent } from 'strve-js';
+import { defineComponent } from 'mettle';
 
 const NestedComponents = () => {
   const subComponent = defineComponent(({ setData }) => {

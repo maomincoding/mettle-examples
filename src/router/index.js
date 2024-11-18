@@ -1,5 +1,5 @@
-import { resetView } from 'strve-js';
-import { initRouter } from 'strve-router';
+import { resetView } from 'mettle';
+import { initRouter } from 'mettle-router';
 
 import TwoWay from '../template/TwoWay';
 import FatherToSon from '../template/FatherToSon';
