@@ -16,7 +16,7 @@
     "less": "^4.2.0"
   },
   "dependencies": {
-    "mettle": "^0.1.2",
+    "mettle": "^0.2.1",
     "mettle-router": "^0.1.1"
   }
 }
